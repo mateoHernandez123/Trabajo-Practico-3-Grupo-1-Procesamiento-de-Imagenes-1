@@ -1,0 +1,5 @@
+# TP3 — cuaderno de umbrales y segmentación en color
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+jupyter>=1.0
